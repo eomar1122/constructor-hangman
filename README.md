@@ -1,6 +1,6 @@
 # constructor-hangman
 
-Implemented Hangman game using objects, constructors in NodeJS programming languse. 
+Implemented Hangman game using objects, constructors in NodeJS programming language. 
 
 ## How it works? 
 
